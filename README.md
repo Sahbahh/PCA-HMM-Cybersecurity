@@ -2,12 +2,11 @@
 SFU CMPT318 - group project <br />  <br />
 
 # Team members:<br /> 
-<h2>
 Kiarash Zamani <br />
 Sahba Hajihoseini <br />
 Quang minh Dinh <br />
 Kayin Lam Chen <br />
-</h2>
+
 
 ---------------------------------
 **Summary:**<br />
