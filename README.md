@@ -1,6 +1,6 @@
 # PCA-HMM-Cybersecurity
 SFU CMPT318 - group project <br />
-Sprin 2023<br /><br />
+Spring 2023<br /><br />
 
 # Team members:<br /> 
 Kiarash Zamani <br />
