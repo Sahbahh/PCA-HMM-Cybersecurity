@@ -1,12 +1,12 @@
 # PCA-HMM-Cybersecurity
 SFU CMPT318 - group project <br />  <br />
 
-Team members:<br /> 
+## Team members:<br /> 
 Kiarash Zamani <br />
 Sahba Hajihoseini <br />
 Quang minh Dinh <br />
 Kayin Lam Chen <br />
------------------------------------
+---------------------------------
 **Summary:**<br />
 This Cybersecurity project is a technical study of unsupervised intrusion detection. It utilizes time series analysis and forecasting applied to stream data from a supervisory control system. The project is divided into three primary tasks:<br />
 
