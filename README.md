@@ -1,5 +1,6 @@
 # PCA-HMM-Cybersecurity
 SFU CMPT318 - group project <br />
+---------------------------------
 Team members:<br /> 
 Kiarash Zamani <br />
 Sahba Hajihoseini <br />
